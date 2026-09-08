@@ -234,7 +234,6 @@ My goal is to build systems that can:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=whereisnitish&show_icons=true&theme=tokyonight&hide_border=true" />
 
 <br/>
 
@@ -242,7 +241,7 @@ My goal is to build systems that can:
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whereisnitish&layout=compact&theme=tokyonight&hide_border=true" />
+
 
 </div>
 
