@@ -1,133 +1,270 @@
+<div align="center">
+
 # Hi 👋, I'm Nitish Kumar
 
-### Python Backend Developer | AI & Agentic Systems Developer
+### 🐍 Python Backend Developer  |  🤖 AI & Agentic Systems Developer
 
-I'm a software developer focused on building scalable backend applications, APIs, and AI-powered systems. I enjoy working with **Python, backend architecture, LLM applications, and agentic AI systems** to build practical solutions to real-world problems.
+<p>
+Building scalable backend systems, intelligent AI agents, and production-ready applications.
+</p>
 
-Currently, I'm focused on building and exploring **AI agents, multi-agent workflows, LLM integrations, and production-ready backend systems**.
+<br/>
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Python+Backend+Developer;AI+%26+Agentic+Systems+Developer;Building+LLM-Powered+Applications;Designing+Scalable+Backend+Systems" />
 
-## 🚀 About Me
-
-* 🐍 Backend developer specializing in **Python**
-* 🤖 Building **AI Agents and Agentic AI workflows**
-* 🧠 Experience with **CrewAI, LangGraph, and LLM-based applications**
-* ⚡ Building scalable APIs using **Django and FastAPI**
-* 🔗 Experienced with third-party API integrations
-* 🗄️ Working with databases and backend application architecture
-* ☁️ Experience deploying applications and managing production environments
-* 💬 Strong interest in building practical AI-powered products
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## 🧠 About Me
 
-### Backend
+```python
+class NitishKumar:
 
-* Python
-* Django
-* FastAPI
-* REST APIs
-* Async Programming
+    role = [
+        "Python Backend Developer",
+        "AI & Agentic Systems Developer"
+    ]
 
-### AI & Agentic Systems
+    interests = [
+        "AI Agents",
+        "Multi-Agent Systems",
+        "LLM Applications",
+        "Backend Architecture",
+        "Intelligent Automation"
+    ]
 
-* LangGraph
-* CrewAI
-* LLM APIs
-* AI Agents
-* Multi-Agent Workflows
-* Prompt Engineering
-* Structured AI Outputs
+    currently_building = [
+        "Production-ready AI Agents",
+        "LangGraph Workflows",
+        "Scalable Python Systems"
+    ]
+```
 
-### Frontend
+I enjoy building **reliable backend systems** and combining them with modern **AI capabilities** to create practical, intelligent applications.
 
-* React
-* Next.js
-* JavaScript
+My primary focus is at the intersection of:
 
-### Databases & Tools
-
-* SQL
-* SQLite
-* Git
-* GitHub
-
-### Integrations & Deployment
-
-* API Integrations
-* Stripe Integration
-* Cloudflare CAPTCHA
-* Google Analytics
-* Server Deployment
+> **AI 🤖 × Backend Engineering ⚡ × Automation ⚙️**
 
 ---
 
-## 🤖 What I'm Currently Working On
+# ⚡ Tech Stack
 
-I'm currently focused on improving my expertise in:
+### 🐍 Backend & APIs
 
-* Building production-ready AI agents
-* Multi-agent systems using LangGraph and CrewAI
-* LLM application architecture
-* AI automation workflows
-* Scalable Python backend systems
-* API design and integrations
+<p>
 
----
+<img src="https://skillicons.dev/icons?i=python,django,fastapi" />
 
-## 💡 What I Can Help Build
+</p>
 
-✔️ Python Backend Applications
-✔️ Django & FastAPI APIs
-✔️ AI Agents & Agentic Workflows
-✔️ LLM-powered Applications
-✔️ API Integrations
-✔️ AI Automation Systems
-✔️ Backend Architecture
-✔️ Database-driven Applications
-✔️ Third-party Integrations
-✔️ Deployment & Production Systems
+`Python` · `Django` · `FastAPI` · `REST APIs` · `Async Programming`
 
 ---
 
-## 📌 Featured Projects
+### 🤖 AI & Agentic Systems
+
+<p>
+
+<img src="https://img.shields.io/badge/LangGraph-Agent%20Workflows-blueviolet?style=for-the-badge&logo=langchain" />
+<img src="https://img.shields.io/badge/CrewAI-Multi--Agent%20Systems-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LLM-Applications-00ADD8?style=for-the-badge" />
+
+</p>
+
+`AI Agents` · `Multi-Agent Systems` · `LangGraph` · `CrewAI`
+
+`LLM APIs` · `Prompt Engineering` · `Structured Outputs` · `Tool Calling`
+
+---
+
+### 🌐 Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,js" />
+
+</p>
+
+`React` · `Next.js` · `JavaScript`
+
+---
+
+### 🗄️ Database & Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=sqlite,git,github" />
+
+</p>
+
+`SQL` · `SQLite` · `Git` · `GitHub`
+
+---
+
+## 🚀 What I Build
+
+<table>
+
+<tr>
+
+<td width="50%">
 
 ### 🤖 AI Agent Systems
 
-Building intelligent workflows using **LangGraph, CrewAI, and LLM APIs**, with a focus on multi-agent collaboration, task orchestration, and structured AI workflows.
+Building intelligent systems powered by **LLMs and AI Agents**.
 
-### ⚡ Backend & API Development
+* Agent orchestration
+* Multi-agent collaboration
+* Tool calling
+* Structured workflows
+* AI automation
+* LLM integrations
 
-Developing scalable backend applications using **Python, Django, and FastAPI**, including REST APIs, authentication, database design, and third-party integrations.
+</td>
 
-### 🌐 Full-Stack Web Applications
+<td width="50%">
 
-Building modern web applications using **Next.js, Node.js, and backend APIs**, including payment integrations, security features, analytics, and production deployment.
+### ⚡ Backend Systems
+
+Building scalable backend applications using Python.
+
+* Django & FastAPI
+* REST APIs
+* Backend architecture
+* Authentication
+* Async workflows
+* API integrations
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 🧠 LLM Applications
+
+Developing production-ready applications powered by modern LLMs.
+
+* Prompt engineering
+* Structured outputs
+* AI workflows
+* Context management
+* API integrations
+
+</td>
+
+<td width="50%">
+
+### 🚀 Production Systems
+
+Taking applications from development to production.
+
+* Third-party integrations
+* Stripe integration
+* Cloudflare security
+* Analytics
+* Server deployment
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
-## 📈 My Goal
+# 🧩 Current Focus
 
-My goal is to build **reliable, scalable, and intelligent software systems** that combine strong backend engineering with modern AI capabilities.
-
-I'm particularly interested in the future of:
-
-* 🤖 Agentic AI
-* 🧠 Autonomous Systems
-* 🔗 AI + Backend Architecture
-* ⚙️ Intelligent Automation
-* 🚀 Production AI Applications
+```text
+🤖 Building production-ready AI Agents
+🧠 Exploring advanced Multi-Agent Architectures
+⚙️ Designing intelligent automation workflows
+🔗 Integrating LLMs with real-world tools & APIs
+🚀 Building scalable Python backend systems
+```
 
 ---
 
-## 🤝 Let's Connect
+# 💡 Engineering Philosophy
 
-I'm always interested in connecting with developers, founders, and teams working on interesting projects involving **Python, Backend Engineering, AI, and Agentic Systems**.
+> **Don't just build AI demos. Build reliable systems that can solve real problems.**
 
-📫 Feel free to connect with me on LinkedIn or explore my repositories below!
+I believe the future of software engineering sits at the intersection of:
+
+```text
+AI + Backend Engineering + Automation
+```
+
+My goal is to build systems that can:
+
+```text
+🧠 Reason
+🔧 Use Tools
+📊 Process Data
+⚙️ Execute Workflows
+🤖 Collaborate Through Agents
+🚀 Run Reliably in Production
+```
 
 ---
+
+# 🛠️ What I Can Help Build
+
+```text
+✓ Python Backend Applications
+✓ Django & FastAPI APIs
+✓ REST API Development
+✓ AI Agents & Agentic Workflows
+✓ LangGraph & CrewAI Systems
+✓ LLM-Powered Applications
+✓ Multi-Agent Architectures
+✓ AI Automation
+✓ Third-Party API Integrations
+✓ Backend Architecture
+✓ Production Deployment
+```
+
+---
+
+# 📈 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=whereisnitish&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=whereisnitish&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whereisnitish&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 🤝 Let's Connect
+
+I'm always interested in connecting with:
+
+🚀 **Founders building AI products**
+🤖 **Teams working on Agentic AI systems**
+🐍 **Python & Backend Developers**
+🧠 **People building interesting AI applications**
+
+---
+
+<div align="center">
+
+### 💬 Let's build something intelligent.
+
+**Python 🐍 · AI 🤖 · Agents ⚙️ · Backend 🚀**
 
 ⭐ **Feel free to explore my repositories and projects!**
+
+</div>
