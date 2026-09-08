@@ -175,40 +175,6 @@ Taking applications from development to production.
 
 </table>
 
----
-
-# 🧩 Current Focus
-
-```text
-🤖 Building production-ready AI Agents
-🧠 Exploring advanced Multi-Agent Architectures
-⚙️ Designing intelligent automation workflows
-🔗 Integrating LLMs with real-world tools & APIs
-🚀 Building scalable Python backend systems
-```
-
----
-
-# 💡 Engineering Philosophy
-
-> **Don't just build AI demos. Build reliable systems that can solve real problems.**
-
-I believe the future of software engineering sits at the intersection of:
-
-```text
-AI + Backend Engineering + Automation
-```
-
-My goal is to build systems that can:
-
-```text
-🧠 Reason
-🔧 Use Tools
-📊 Process Data
-⚙️ Execute Workflows
-🤖 Collaborate Through Agents
-🚀 Run Reliably in Production
-```
 
 ---
 
